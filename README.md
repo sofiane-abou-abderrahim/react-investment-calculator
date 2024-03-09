@@ -30,4 +30,9 @@
 
 ## 1. Module Introduction & A Challenge For You!
 
-1. Creating README.md
+1. Create README.md
+
+## 2. Adding a Header Component
+
+1. Create Header Component
+2. Import Header Component in App.jsx
