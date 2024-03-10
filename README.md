@@ -35,4 +35,9 @@
 ## 2. Adding a Header Component
 
 1. Create Header Component
-2. Import Header Component in App.jsx
+2. Import Header Component into App.jsx
+
+## 3. Getting Started with a User Input Component
+
+1. Create UserInput Component
+2. Import UserInput Component into App.jsx
