@@ -41,3 +41,8 @@
 
 1. Create UserInput Component
 2. Import UserInput Component into App.jsx
+
+## 4. Handling Events & Using Two-Way-Binding
+
+1. Get hold of the Value Entered by the User with UseState()
+2. Reflect that Value Back into the Input Field with the value attribute
