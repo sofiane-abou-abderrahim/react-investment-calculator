@@ -46,3 +46,11 @@
 
 1. Get hold of the Value Entered by the User with UseState()
 2. Reflect that Value Back into the Input Field with the value attribute
+
+## 5. Lifting State Up
+
+1. Lift the `userInput` State Up from the UserInput Component to the App Component
+2. Pass `onChange` & `userInput` as props in UserInput Component to Get the Object from the State & use the `handleChange` function
+3. Create the Results Component
+4. Pass also the `userInput` as props in the Results Component
+5. Output the Results Component
