@@ -54,3 +54,10 @@
 3. Create the Results Component
 4. Pass also the `userInput` as props in the Results Component
 5. Output the Results Component
+
+## 6. Computing Values & Properly Handling Number Values
+
+1. Derive the Results Data in the Results Component
+   1. Import & use the `calculateInvestmentResults` function from `util/investment.js`
+   2. Compute Values based on the `input` state
+2. Convert the `newValue` into a number
