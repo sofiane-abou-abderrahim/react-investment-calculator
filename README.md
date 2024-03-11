@@ -66,3 +66,10 @@
 
 1. Output results data in a table dynamically as a list based on the `resultsData` array
 2. Use `formatter.format()` to make numbers prettier
+
+## 8. Outputting Content Conditionally
+
+1. Conditionally display an info message if an invalid duration (<1) was entered
+   1. Derive the information whether the input is valid or not based on this `userInput` state in a constant `inputIsValid`
+   2. Make sure that the `Results` component is output conditionally (it should only be output if we have valid user input)
+   3. Show a fallback message if the input should not be valid
