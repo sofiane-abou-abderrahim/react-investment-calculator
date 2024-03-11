@@ -61,3 +61,8 @@
    1. Import & use the `calculateInvestmentResults` function from `util/investment.js`
    2. Compute Values based on the `input` state
 2. Convert the `newValue` into a number
+
+## 7. Outputting Results in a List & Deriving More Values
+
+1. Output results data in a table dynamically as a list based on the `resultsData` array
+2. Use `formatter.format()` to make numbers prettier
